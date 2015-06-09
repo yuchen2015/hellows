@@ -1,0 +1,12 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+    <!--<welcome-file-list>-->
+        <!--&lt;!&ndash;<welcome-file>index.jsp</welcome-file>&ndash;&gt;-->
+        <!--<welcome-file>index.jsp</welcome-file>-->
+    <!--</welcome-file-list>-->
+</web-app>
+<!--这里把文件放在webapp目录下，则可以通过路径localhost：8080/文件名及后缀进行访问和下载-->
